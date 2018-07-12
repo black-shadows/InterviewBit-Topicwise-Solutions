@@ -14,7 +14,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | [Backtracking](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Backtracking)| 15| 
 | [Binary Search](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Binary%20Search)| 11| 
 | [Bit Manipulation](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Bit%20Manipulation)| 7| 
-| [Dynamic Programming](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Dynamic%20Programming)| 49| 
+| [Dynamic Programming](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Dynamic%20Programming)| 48| 
 | [Graphs](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Graphs)| 17| 
 | [Greedy](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Greedy)| 7| 
 | [Hashing](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Hashing)| 14| 
