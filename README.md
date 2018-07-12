@@ -12,7 +12,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |  :--------: |  :--------: | 
 | [Arrays](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Arrays)| 32| 
 | [Backtracking](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Backtracking)| 15| 
-| [Binary Search](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Binary%20Search)| 11| 
+| [Binary Search](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Binary%20Search)| 12| 
 | [Bit Manipulation](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Bit%20Manipulation)| 7| 
 | [Dynamic Programming](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Dynamic%20Programming)| 48| 
 | [Graphs](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Graphs)| 17| 
