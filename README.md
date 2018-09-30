@@ -22,7 +22,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | [Linked Lists](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Linked%20Lists)| 17| 
 | [Math](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Math)| 23| 
 | [Stacks And Queues](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Stacks%20and%20Queues)| 10| 
-| [Strings](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Strings)| 21|
+| [Strings](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Strings)| 22|
 | [Time Complexity](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Time%20Complexity)| 15| 
 | [Trees](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Trees)| 30| 
 | [Two Pointers](https://github.com/black-shadows/Interview-bit-Topic-wise-Solutions/tree/master/Two%20Pointers)| 15| 
