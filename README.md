@@ -46,7 +46,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 ## What I'll be doing with this repository
 
-One day in the foreseeable future I will have solved all the challenges on [interviewbit](https://interviewbit.com).
+One day in the foreseeable future I will have solved all the challenges on [interviewbit](https://www.interviewbit.com).
 Then this repository will mostly become a static one.
 
 Constructive criticisms or code reviews of any kind are very much welcome.
