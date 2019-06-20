@@ -19,7 +19,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | [Binary Search](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Binary%20Search)| 18| 
 | [Bit Manipulation](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Bit%20Manipulation)| 7| 
 | [Codersbit](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Codersbit)| 19|
-| [Dynamic Programming](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Dynamic%20Programming)| 60| 
+| [Dynamic Programming](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Dynamic%20Programming)| 65| 
 | [Graphs](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Graphs)| 27| 
 | [Greedy](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Greedy)| 13| 
 | [Hashing](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Hashing)| 25| 
