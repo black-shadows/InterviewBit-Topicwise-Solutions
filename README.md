@@ -14,15 +14,15 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 | Topic Name| Number of Problems Solved| 
 |  :--------: |  :--------: | 
-| [Arrays](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Arrays)| 61| 
+| [Arrays](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Arrays)| 62| 
 | [Backtracking](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Backtracking)| 20| 
 | [Binary Search](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Binary%20Search)| 18| 
 | [Bit Manipulation](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Bit%20Manipulation)| 7| 
 | [Codersbit](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Codersbit)| 19|
-| [Dynamic Programming](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Dynamic%20Programming)| 65| 
-| [Graphs](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Graphs)| 27| 
+| [Dynamic Programming](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Dynamic%20Programming)| 66| 
+| [Graphs](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Graphs)| 28| 
 | [Greedy](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Greedy)| 13| 
-| [Hashing](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Hashing)| 25| 
+| [Hashing](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Hashing)| 26| 
 | [Heaps And Maps](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Heaps%20and%20Maps)| 15| 
 | [Linked Lists](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Linked%20Lists)| 22| 
 | [Math](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Math)| 40| 
