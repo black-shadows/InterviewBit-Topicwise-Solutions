@@ -12,3 +12,4 @@ int Solution::solve(int n) {
     }
     return ans;
 }
+//not handling the n=100 case your solution 2 but actual is 1
