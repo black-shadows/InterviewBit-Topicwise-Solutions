@@ -25,7 +25,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | [Hashing](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Hashing)| 26| 
 | [Heaps And Maps](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Heaps%20and%20Maps)| 15| 
 | [Linked Lists](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Linked%20Lists)| 22| 
-| [Math](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Math)| 41| 
+| [Math](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Math)| 42| 
 | [Stacks And Queues](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Stacks%20and%20Queues)| 25| 
 | [Strings](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Strings)| 28|
 | [Time Complexity](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Time%20Complexity)| 29| 
