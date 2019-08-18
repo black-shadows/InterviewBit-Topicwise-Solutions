@@ -14,9 +14,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 | Topic Name| Number of Problems Solved| 
 |  :--------: |  :--------: | 
-| [Arrays](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Arrays)| 66| 
+| [Arrays](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Arrays)| 67| 
 | [Backtracking](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Backtracking)| 21| 
-| [Binary Search](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Binary%20Search)| 18| 
+| [Binary Search](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Binary%20Search)| 19| 
 | [Bit Manipulation](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Bit%20Manipulation)| 7| 
 | [Codersbit](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Codersbit)| 19|
 | [Dynamic Programming](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Dynamic%20Programming)| 71| 
@@ -29,7 +29,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | [Stacks And Queues](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Stacks%20and%20Queues)| 25| 
 | [Strings](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Strings)| 32|
 | [Time Complexity](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Time%20Complexity)| 29| 
-| [Trees](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Trees)| 53| 
+| [Trees](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Trees)| 54| 
 | [Two Pointers](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Two%20Pointers)| 21| 
 
 
