@@ -14,23 +14,23 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 | Topic Name| Number of Problems Solved| 
 |  :--------: |  :--------: | 
-| [Arrays](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Arrays)| 67| 
+| [Arrays](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Arrays)| 68| 
 | [Backtracking](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Backtracking)| 21| 
 | [Binary Search](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Binary%20Search)| 19| 
-| [Bit Manipulation](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Bit%20Manipulation)| 7| 
+| [Bit Manipulation](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Bit%20Manipulation)| 8| 
 | [Codersbit](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Codersbit)| 19|
-| [Dynamic Programming](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Dynamic%20Programming)| 78| 
-| [Graphs](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Graphs)| 29| 
+| [Dynamic Programming](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Dynamic%20Programming)| 82| 
+| [Graphs](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Graphs)| 31| 
 | [Greedy](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Greedy)| 13| 
 | [Hashing](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Hashing)| 26| 
-| [Heaps And Maps](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Heaps%20and%20Maps)| 20| 
+| [Heaps And Maps](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Heaps%20and%20Maps)| 21| 
 | [Linked Lists](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Linked%20Lists)| 22| 
-| [Math](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Math)| 46| 
-| [Stacks And Queues](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Stacks%20and%20Queues)| 25| 
+| [Math](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Math)| 49| 
+| [Stacks And Queues](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Stacks%20and%20Queues)| 26| 
 | [Strings](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Strings)| 32|
 | [Time Complexity](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Time%20Complexity)| 30| 
-| [Trees](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Trees)| 55| 
-| [Two Pointers](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Two%20Pointers)| 21| 
+| [Trees](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Trees)| 59| 
+| [Two Pointers](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions/tree/master/Two%20Pointers)| 22| 
 
 
 ## How to contribute?
