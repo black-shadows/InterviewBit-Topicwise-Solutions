@@ -1,34 +1,48 @@
-struct e{
-  string w; // word
-  int d; //distance
-  e(string _w, int _d): w(_w), d(_d) {}
-};
+int Solution::solve(string beginWord, string endWord, vector<string>& wordList) {
+        int n=beginWord.size();
+        unordered_map<string,unordered_set<string> > dict;
+        string word;
+        
+        for(int i=0;i<wordList.size();++i)
+        {   word=wordList[i];
+            for(int j=0;j<n;++j)
+            {
+                string s=word.substr(0,j)+"*"+word.substr(j+1,n-j-1);
+                dict[s].insert(word);
+            }
+        }
+        
+    unordered_set<string> visited;
+    queue<pair<string, int> > q;
 
-bool neighbor(const string &q, const string &p){
-  int diff=0, size=q.size();
-  for(int i=0 ; i<size ; ++i){
-    if(q[i] != p[i])  ++diff;
-  }
-
-  return diff == 1;
-}
-
-// add Solution::
-int Solution::ladderLength(string start, string end, vector<string> &dictV) {
-  unordered_map<string, int> mark;
-  queue<e> Q;
-
-  Q.push(e{start, 1}); mark[start] = 1;
-  while(Q.size()){
-    e fro = Q.front();  Q.pop(); //<<--- notice
-    if(fro.w == end)  return fro.d;
+    q.push(make_pair(beginWord, 1)); 
+    visited.insert(beginWord);
     
-    for(const string &word : dictV){
-      if(neighbor(fro.w, word) and !mark[word]){
-        Q.push(e{word, fro.d + 1});
-        mark[word]=1;
-      }
+    while(!q.empty())
+    {
+        pair<string, int> x = q.front();  
+        q.pop(); 
+        string word = x.first;
+        
+        for(int i=0;i<n;++i)
+        {   string adj=word.substr(0,i)+"*"+word.substr(i+1,n-i-1);
+            for(unordered_set<string>::iterator it = dict[adj].begin();it!=dict[adj].end();++it)
+            {   string adj_word=*it;
+                if(adj_word==endWord)
+                    return x.second+1;
+                if(visited.find(adj_word)==visited.end())
+                {
+                    visited.insert(adj_word);
+                    q.push(make_pair(adj_word,x.second+1));
+                }    
+            }
+            
+        }
+        
+    
     }
-  }
-  return 0;
-}
+    return 0;
+        
+    }
+
+
