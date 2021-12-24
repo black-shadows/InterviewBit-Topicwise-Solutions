@@ -6,34 +6,29 @@ int Solution::fibsum(int A) {
     // Do not print the output, instead return values as specified
     // Still have a doubt. Checkout www.interviewbit.com/pages/sample_codes/ for more details
     
-    vector<int> vec;
-    
-    vec.push_back(1);
-    vec.push_back(1);
-    
-    int fib, i = 2;
-    
-    while(fib <= A){
-        fib = vec[i-2] + vec[i-1];
-        vec.push_back(fib);
-        i++;
-    }
-    
-    int j = vec.size()-1;
-    int sol = 0;
-    
-    LOOP:while(A && j >= 0){
-        if(vec[j] == A){
-            sol++;
-            return sol;
-        }
-        else if(vec[j] < A){
-            sol++;
-            A = A - vec[j];
-            goto LOOP;
-        }
-        j--;
-    }
-    
-    return 0;
+    // not taking 1 two times ... :)
+   int t1=1,t2=2;
+   vector<int>val;
+   val.push_back(t1);
+   val.push_back(t2);
+   // Storing all fibonacci numbers <= A
+   while(1){
+      if(t1+t2 > A) break;
+      int temp = t2;
+      t2 += t1;
+      val.push_back(t2);
+      t1 = temp;
+   }
+   int count = 0;
+   while(A > 0){
+       // everytime take the max value <= A to get less count
+       auto it = lower_bound(val.begin(),val.end(),A);
+       if(it == val.end() || *it > A){
+           it--;
+       }
+      
+       A -= *it;
+       count++;
+   }
+   return count;
 }
